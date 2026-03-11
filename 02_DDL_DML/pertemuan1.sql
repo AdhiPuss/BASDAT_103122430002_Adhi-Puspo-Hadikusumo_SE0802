@@ -1,3 +1,5 @@
+SQL> --nama: Adhi Puspo Hadikusumo
+SQL> --nim: 103122430002
 SQL> SELECT * FROM PATH_CHARA;
 
 ID_PA PATH                                                                      
