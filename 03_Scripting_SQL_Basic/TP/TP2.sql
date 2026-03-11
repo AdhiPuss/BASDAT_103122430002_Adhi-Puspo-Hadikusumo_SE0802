@@ -1,3 +1,5 @@
+SQL> --nama: Adhi Puspo Hadikusumo
+SQL> --nim: 103122430002
 SQL> CREATE TABLE mahasiswa
   2  (id NUMBER PRIMARY KEY, nama VARCHAR2(50) NOT NULL, tempat_lahir VARCHAR2(50), tanggal_lahir  DATE, nomor_hp VARCHAR2(20), email VARCHAR2(50), tinggi_badan NUMBER(5,2), berat_badan NUMBER(5,2));
 
